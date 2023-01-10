@@ -1,4 +1,4 @@
-# Manual to Automation @ <a href="https://aon.co.uk/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Logo_Aon_Corporation.svg/2560px-Logo_Aon_Corporation.svg.png" alt="AON" height="27" /></a> - Lesson 1 - Writing your first test
+# Manual to Automation @ <a href="https://portales.bancochile.cl/personas"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Banco_de_Chile_Logo.png/800px-Banco_de_Chile_Logo.png" alt="BdB" height="27" /></a> - Lesson 1 - Writing your first test
 
 ## Introduction
 
@@ -25,11 +25,10 @@ To get the project ready to run on your machine, follow the steps below:
 * Go to the directory where you want to place the code using [cd](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/cd) for Windows, and it functions mostly the same for Mac. You just use "cd" but the folder structure on Mac is different (/Users/username/Documents instead of C:/Users/username/Documents)
 * Copy the following command into the terminal, (remember, you must have [Git](https://git-scm.com/downloads) installed)
 ```sh
-git clone https://github.com/Manual-To-Automation-AON/Lesson-1-Intro-To-Java.git
+git clone https://github.com/Manual-To-Automation-BancoDeChile/Lesson-1-Web-Intro-To-Java.git
 ```
 * Move into the directory that you just cloned by typing
 ```sh
-cd Lesson-1-Intro-To-Java
+cd Lesson-1-Web-Intro-To-Java
 ```
 * To run your test, you can use the Run button in your IDE of choice or right click anywhere in your file and click Run.
-# Lesson-1-Web-Intro-To-Java
